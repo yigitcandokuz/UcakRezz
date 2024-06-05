@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|c:\\users\\yigit\\onedrive\\masa\u00FCst\u00FC\\ucakkk\\ucakk\\demoform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:DemoForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F31A27-2BA9-4B47-A9E3-7109E77A6255}|DemoForm\\UcakkRez.csproj|solutionrelative:demoform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.cs",
+              "RelativeToolTip": "DemoForm\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:59:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.Designer.cs",
+              "RelativeToolTip": "DemoForm\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:15:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Models\\User.cs",
+              "RelativeToolTip": "DemoForm\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:15:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Program.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Program.cs",
+              "RelativeToolTip": "DemoForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:15:12.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\DemoForm\\DemoForm\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\DemoForm\\DemoForm\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:15:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form2.cs",
+              "RelativeDocumentMoniker": "DemoForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\DemoForm\\Form2.cs",
+              "RelativeToolTip": "DemoForm\\Form2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:05:40.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\Form2.cs",
+              "RelativeDocumentMoniker": "demoform\\Form2.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Ucakkk\\Ucakk\\demoform\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "demoform\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:05:34.986Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
